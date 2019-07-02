@@ -1,3 +1,2 @@
-# self-driving-car
-teaching ai to drive a car
-![Screenshot](ScreenShot.png)
+# MC Python
+AI Driving Car
